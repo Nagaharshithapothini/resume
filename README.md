@@ -21,14 +21,14 @@
 - Andhra Pradesh,India
 
 **SSC**
--Dr.KKR's Gowtham school,Guntur
--Board of SSC
--Andhra Pradesh,India
+- Dr.KKR's Gowtham school,Guntur
+- Board of SSC
+- Andhra Pradesh,India
 
-####Skills
--C Programming-95%
--Java Programming -90%
--python -85%
+#### Skills
+- C Programming-95%
+- Java Programming -90%
+- python -85%
 
 #### Goals
--Software Developer in 'python'
+- Software Developer in 'python'
